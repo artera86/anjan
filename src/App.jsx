@@ -4,7 +4,6 @@ import { Header } from "./components/header";
 import { About } from "./components/about";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
-import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -27,7 +26,6 @@ const App = () => {
       <About data={landingPageData.About} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
     </div>
   );
 };
