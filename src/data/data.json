@@ -79,19 +79,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/portfolio/ps1big.png",
+      "img": "img/portfolio/ps1.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "PlayStation 1"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/portfolio/ps2.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "PlayStation 2"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/portfolio/ps3.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "PlayStation 3"
     },
     {
       "img": "img/testimonials/04.jpg",
